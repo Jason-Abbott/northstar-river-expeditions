@@ -1,4 +1,5 @@
 <font face="Tahoma, Arial, Helvetica" size=2>
+• <a href="contact_us.shtml">Contact Us</a><br>
 • <a href="rate-date.shtml">Rates and Dates</a><br>
 • <a href="booking.shtml">Book a trip</a><br>
 • <a href="snake.shtml">Snake River</a><br>

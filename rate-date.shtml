@@ -1,4 +1,60 @@
-<!--#include file="./include/header.inc"-->
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META NAME="description" content="North Star River Expeditions runs 3 to 6 day commercially outfitted whitewater rafting trips on the Snake River in Hells Canyon and the Lower Main Salmon River. Our trips are first class, providing all equipment needed for the trip, gourmet Dutch oven cooking, and a staff of experienced, friendly professional guides.>
+<META name="keywords" content="whitewater river expeditions, whitewater rafting in the Snake River, Snake River whitewater rafting, Salmon River whitewater rafting, whitewater rafting in the Salmon River, Idaho whitewater rafting, whitewater rafting in Idaho, river expeditions, wildlife, boating, snake, salmon, petroglyphs, Idaho, outdoors, hiking, elk, sheep, white water, rapids, kayak, pontoon, rafts">
+
+<title>North Star River Expeditions</title>
+
+<style type='text/css'>
+	A:hover { color:#0044bb; }
+	A:link { text-decoration: none; }
+	A:active { text-decoration: none; }
+	A:visited { text-decoration: none; }
+</style>
+
+<script language="javascript"><!--
+
+if (document.images) {
+	var iconTop = new Image();
+	iconTop.src = "top1.gif";
+	var iconTopOn = new Image();
+	iconTopOn.src = "top2.gif"
+	statusTop = "Return to top of page";
+	
+	var iconLogo = new Image();
+	iconLogo.src = "logo_white.gif";
+	var iconLogoOn = new Image();
+	iconLogoOn.src = "logo_white2.gif"
+	statusLogo = "Return to home page";
+}
+
+function iconOver(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+"On.src");
+		status=eval("status"+name);
+	}
+}
+
+function iconOut(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+".src");
+		status="";
+	}
+}
+
+//-->
+</script>
+
+</head>
+<body background="mapback.jpg" link="#946330" vlink="#946330" alink="#946330">
+<a name="top"></a>
+
+<table width="100%" cellspacing=0 border=0 cellpadding=2 border=0>
+<tr>
+	<td valign="top" rowspan=2>
+<font face="Tahoma, Arial, Helvetica" size=2>
 
 <center>
 <img src="./text/rate-date.gif" width=349 height=68 alt="" border="0">
@@ -6,12 +62,13 @@
 <img src="line.gif" width=123 height=3></center>
 <br>
 
+
 <center>
 <table border=0 cellpadding=3 cellspacing=4>
 <tr>
 	<td colspan=2 align="center" bgcolor="#e0bf82">
 	<font face="Tahoma, Arial, Helvetica">
-	Year 2000 Schedule and Rates</font></td>
+	Year 2003 Schedule and Rates</font></td>
 <tr>
 	<td width="50%" align="center">
 	<font face="Tahoma, Arial, Helvetica" size=2>
@@ -24,23 +81,38 @@
 <tr>
 	<td valign="top" bgcolor="#fdecdb">
 	<font face="Tahoma, Arial, Helvetica" size=2>
-<a href="itinerary_hc3.shtml">3 Day Expedition</a> - $775/person<br>
-<a href="itinerary_hc4.shtml">4 Day Expedition</a> - $1010/person<br>
-<a href="itinerary_hc5.shtml">5 Day Expedition</a> - $1220/person<br>
-<a href="itinerary_hc6.shtml">6 Day Expedition</a> - $1425/person
+<a href="itinerary_hc3.shtml">3 Day Expedition</a> - $850/person<br>
+<a href="itinerary_hc4.shtml">4 Day Expedition</a> - $1085/person<br>
+<a href="itinerary_hc5.shtml">5 Day Expedition</a> - $1320/person<br>
+<a href="itinerary_hc6.shtml">6 Day Expedition</a> - $1500/person
 	</font>
 	</td>
 
 	<td valign="top" bgcolor="#fdecdb">
 	<font face="Tahoma, Arial, Helvetica" size=2>
-<a href="itinerary_ls4.shtml">4 Day Expedition</a> - $985/person<br>
-<a href="itinerary_ls5.shtml">5 Day Expedition</a> - $1205/person
+<a href="itinerary_ls4.shtml">4 Day Expedition</a> - $1040/person<br>
+<a href="itinerary_ls5.shtml">5 Day Expedition</a> - $1270/person<br>
+<a href="itinerary_ls4.shtml">4 Day Youth Rate</a> - $600/youth<br>
+<a href="itinerary_ls5.shtml">5 Day Youth Rate</a> - $725/youth<br><br>
+<font size="-2">Kids age 14 and under qualify for Youth Rate.</font>
+	</font>
+	</td>
 	</font>
 	</td>
 <tr>
 	<td colspan=2 align="center">
 	<font face="Tahoma, Arial, Helvetica" size=2>
-	<b>Launch Dates</b></font></td>
+	<br>
+	<b>Scheduled Launch Dates</b></font></td>
+<tr>
+	<td width="50%" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<a href="snake.shtml">
+	<b>Snake River through Hells Canyon</b></a></font></td>
+	<td width="50%" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<a href="salmon.shtml">
+	<b>Lower Main Salmon River</b></a></font></td>
 <tr>
 	<td valign="top" bgcolor="#fdecdb">
 	<table width="100%">
@@ -56,32 +128,104 @@
 	
 	<td valign="top" bgcolor="#fdecdb">
 	<table width="100%">
+
 	<tr>
 		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
-		July 8<br>July 16<br>July 24<br>Aug 1 </td>
+		July 8<br>July 16<br>July 24<br>Aug 1</td>
 		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
 		Aug 9<br>Aug 17<br>Aug 25<br>Sept 2</td>
 		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
 		Sept 10<br>Sept 18</font></td>
-	</table>
-	</td>
+        </table></td>
+        
 <tr>
-	<td colspan=2 align="center">
-	<font face="Tahoma, Arial, Helvetica" size=2>
-	<b>Charter dates available on request</b></td>
+
+        <br>
+</td>	
 </table>
+<br>
+<b>Charter dates available on request</b>
 </center>
+<br>
 <p>
 <font face="Verdana, Arial, Helvetica" size=2>
 
 <b>Prices include</b> 3% Forest Service or Bureau of Land Management Use Fee.<br>
-<b>Prices do not include</b> gratuities or 5% Idaho Sales Tax (Snake River/Hells Canyon trips are subject to 5% Idaho Sales Tax on 1/2 of the trip price because only 1/2 of the trip is in Idaho).
-<p>
+All rafting and camping equipment, round trip transportation to and from the river (starting in McCall, ending in McCall or Lewiston),
+all meals starting with lunch the first day and ending with lunch the final day of the trip.<br>AND a complimentary North Star River Expeditions quick-dry short sleeve shirt.
+Please visit the <a href="./booking.shtml">Booking A Trip</a> page for more details.<br><br>
+
+<b>Prices do not include</b> gratuities or 6% Idaho Sales Tax (Snake River/Hells Canyon trips are subject to 5% Idaho Sales Tax on 1/2 of the trip price because only 1/2 of the trip is in Idaho).
+<p><center>
 Dates and Prices Subject to Change Without Notice<br>
-10% Youth Discount<br>
+10% Youth Discount (Kids age 14 and under) available on most Hells Canyon launches.<br>
 Group Discounts are available on most trips.<br>
-Please ask about Charter Trips
+Please ask about Charter Trips.
+</center>
+</font>
+
+<p>
+<center><img src="line.gif" width=123 height=3></center>
 
 </font>
 
-<!--#include file="./include/footer.shtml"-->
+	</td>
+	<td bgcolor="#000000" valign="top" align="center" width="122">
+	<table width="100%" cellspacing=0 cellpadding=2 border=0>
+	
+<tr>
+	<td bgcolor="#fdecdb">
+<a href="index.html" onMouseOver="iconOver('Logo'); return true;" onMouseOut="iconOut('Logo'); return true;">
+<img name="Logo" src="logo_white.gif" width=115 height=66 alt="Return to home page" border="0"></a><br>
+<font face="Tahoma, Arial, Helvetica" size=2>
+• <a href="contact_us.shtml">Contact Us</a><br>
+• <a href="rate-date.shtml">Rates and Dates</a><br>
+• <a href="booking.shtml">Book a trip</a><br>
+• <a href="snake.shtml">Snake River</a><br>
+• <a href="salmon.shtml">Salmon River</a><br>
+• <a href="fishing.shtml">Fishing</a><br>
+• <a href="wildlife.shtml">Wildlife</a><br>
+• <a href="history-hiking.shtml">History & Hiking</a><br>
+• <a href="boats.shtml">Boats</a><br>
+• <a href="equipment.shtml">Equipment</a><br>
+• <a href="food.shtml">Food, etc.</a><br>
+• <a href="map.shtml">Map</a>
+	</font>
+	</td>
+<tr>
+	<td bgcolor="#e0bf82" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+877-610-3200<br>
+<a href="mailto:vacation@northstar-rafting.com">or e-mail us</a>
+</font>
+
+	</td>
+
+
+	</table>
+
+	<img src="./pictures/fromuphi.jpg" width=122 height=362>
+	</td>
+<tr>
+	<td bgcolor="#000000" valign="bottom" align="center">
+	
+	<a href="#top" onMouseOver="iconOver('Top'); return true;" onMouseOut="iconOut('Top'); return true;">
+	<img name="Top" src="top1.gif" width=20 height=22 alt="" border=0></a>
+	</td>
+</table>
+
+<p>
+<font face="Arial, Helvetica" size=1>
+<div align="right">
+
+Copyright &copy; 2000 North Star River Expeditions<br>
+Logo and collateral by <a href="http://www.stoltzgroup.com">Stoltz Marketing Group</a><br>
+Professional photography by John Rogers<br>
+Web site by <a href="http://webott.com/jason">Jason Abbott</a>
+
+</div>
+</font>
+
+</body>
+
+

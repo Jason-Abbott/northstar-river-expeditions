@@ -1,0 +1,9 @@
+* { font-family: Tahoma, Arial, Helvetica; }
+BODY { background-color: #ffffff; font-size: 9pt; }
+A { color: #2e369b; }
+A:hover { color:#dd0000; }
+A:link { text-decoration: none; }
+A:active { text-decoration: none; }
+A:visited { text-decoration: none; }
+DIV.Para { text-indent: 2em; margin-top: 4px; }
+SPAN.dropCap { font-size: 22pt; font-weight: bold; font-family: Times; }

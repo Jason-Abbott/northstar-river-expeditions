@@ -1,0 +1,346 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.76 [en] (Windows NT 5.0; U) [Netscape]">
+   <title>North Star River Expeditions - Contact Us</title>
+<style type='text/css'>
+	A:hover { color:#0044bb; }
+	A:link { text-decoration: none; }
+	A:active { text-decoration: none; }
+	A:visited { text-decoration: none; }
+</style>
+</head>
+<body bgcolor="#FFFFFF" link="#946330" vlink="#946330" alink="#946330" background="mapback.jpg">
+<a NAME="top"></a>
+<! REQUIRED HIDDEN TAGS ><input type="Hidden" name="XX-OS" value="unix"><! OR value="unix" - Operating System ><! CHANGE THE FORM TAG FOR YOUR SERVER ><form method="POST" action="http://cgi.velocitus.net/cgi-bin/formmail.cgi"><! REQUIRED UNIX TAG ><!input type="Hidden" name="XX-MailProgram" value="/usr/lib/sendmail"><! REQUIRED HIDDEN TAGS ><! OPTIONAL HIDDEN TAGS ><input type="Hidden" name="XX-send-to-email" value=""><input type="Hidden" name="XX-subject" value=""><!input type="Hidden" name="XX-redirect-to-url" value="http://www.northstar-rafting.com"><input type="Hidden" name="REQUIRED" value="firstname,lastname,XX-email,address1,city,state,zip,country">
+<INPUT type=hidden name="recipient" value="vacation@northstar-rafting.com">
+<INPUT type=hidden name="redirect" value="http://www.northstar-rafting.com">
+<INPUT type=hidden name="subject" value="Request for Information">
+<input type="Hidden" name="XX-sort" value="yes">
+<input type="Hidden" name="XX-Sort_Order" value="firstname,lastname,company,pobox,address1,address2,address3,city,state,zip,country,phone,XX-email,snaketrip,salmontrip,date,how_did_you_hear_about_us,customer_comments">
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><center><img SRC="./pictures/rfi.gif" alt="" border="0" width="446" height="94"></center>
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>First Name<font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="firstname" maxlength=15 VALUE="" SIZE=23 MAXLENGTH=30></td>
+
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Last Name<font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="lastname" maxlength=15 VALUE="" SIZE=23 MAXLENGTH=30></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" HEIGHT="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Care of / Company
+Name</font></font>
+<br><input TYPE="text" NAME="company" maxlength=30 VALUE="" SIZE=23 MAXLENGTH=30></td>
+
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>P.O. Box (use
+numbers only)</font></font>
+<br><input TYPE="text" NAME="pobox" maxlength=30 VALUE="" SIZE=23 MAXLENGTH=25></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Address Line 1<font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="address1" maxlength=30 VALUE="" SIZE=35 MAXLENGTH=30></td>
+
+<td></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Address Line 2</font></font>
+<br><input TYPE="text" NAME="address2" maxlength=30 VALUE="" SIZE=35 MAXLENGTH=30></td>
+
+<td></td>
+</tr>
+</table>
+
+<table COLS=2 HEIGHT="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Address Line 3</font></font>
+<br><input TYPE="text" NAME="address3" maxlength=30 VALUE="" SIZE=35 MAXLENGTH=30></td>
+
+<td></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>City<font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="city" maxlength=20 VALUE="" SIZE=23 MAXLENGTH=30></td>
+
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>State/Province<font color="#FF0000">*</font></font></font>
+<br><select NAME="state" SIZE=1><option VALUE=""><font face="arial, helvetica, sans-serif"><font size=-1>Click
+to Select<option VALUE="">Click here for International<option VALUE="AL">Alabama<option VALUE="AK">Alaska<option VALUE="AB">Alberta<option VALUE="AS">American
+Samoa&nbsp;<option VALUE="AZ">Arizona<option VALUE="AR">Arkansas<option VALUE="AA">Armed
+Forces - USA/Canada<option VALUE="AE">Armed Forces - Europe<option VALUE="AP">Armed
+Forces - Pacific<option VALUE="BC">British Columbia<option VALUE="CA">California<option VALUE="CO">Colorado<option VALUE="CT">Connecticut<option VALUE="DE">Delaware<option VALUE="DC">District
+of Columbia<option VALUE="FM">Federated States of Micronesia<option VALUE="FL">Florida<option VALUE="GA">Georgia<option VALUE="GU">Guam<option VALUE="HI">Hawaii<option VALUE="ID">Idaho<option VALUE="IL">Illinois<option VALUE="IN">Indiana<option VALUE="IA">Iowa<option VALUE="KS">Kansas<option VALUE="KY">Kentucky<option VALUE="LA">Louisiana<option VALUE="ME">Maine<option VALUE="MB">Manitoba<option VALUE="MH">Marshall
+Islands<option VALUE="MD">Maryland<option VALUE="MA">Massachusetts<option VALUE="MI">Michigan<option VALUE="MN">Minnesota<option VALUE="MS">Mississippi<option VALUE="MO">Missouri<option VALUE="MT">Montana<option VALUE="NE">Nebraska<option VALUE="NV">Nevada<option VALUE="NB">New
+Brunswick<option VALUE="NH">New Hampshire<option VALUE="NJ">New Jersey<option VALUE="NM">New
+Mexico<option VALUE="NY">New York<option VALUE="NF">Newfoundland<option VALUE="NC">North
+Carolina<option VALUE="ND">North Dakota<option VALUE="MP">Northern Mariana
+Island&nbsp;<option VALUE="NT">Northwest Territories<option VALUE="NS">Nova
+Scotia<option VALUE="OH">Ohio<option VALUE="OK">Oklahoma<option VALUE="ON">Ontario<option VALUE="OR">Oregon<option VALUE="PW">Palau
+Island<option VALUE="PA">Pennsylvania<option VALUE="PE">Prince Edward Island<option VALUE="PR">Puerto
+Rico<option VALUE="QC">Quebec<option VALUE="RI">Rhode Island<option VALUE="SK">Saskatchewan<option VALUE="SC">South
+Carolina<option VALUE="SD">South Dakota<option VALUE="TN">Tennessee<option VALUE="TX">Texas<option VALUE="UT">Utah<option VALUE="VT">Vermont<option VALUE="VI">Virgin
+Islands<option VALUE="VA">Virginia<option VALUE="WA">Washington<option VALUE="WV">West
+Virginia<option VALUE="WI">Wisconsin<option VALUE="WY">Wyoming<option VALUE="YT">Yukon
+Territory</font></font></select></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2><font color="#000000">Zip</font><font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="zip" maxlength=20 VALUE="" SIZE=23></td>
+
+<td><font face="Verdana, Arial, Helvetica"><font size=-2><font color="#000000">Country</font><font color="#FF0000">*</font></font></font>
+<br><select NAME="country" SIZE=1><option> Albania<option> Algeria<option> American
+Samoa<option>
+Andorra<option> Angola<option> Anguilla<option>
+Antarctica<option> Antigua
+And Barbuda<option> Argentina<option> Armenia<option>
+Aruba<option>
+Australia<option> Austria<option> Azerbaijan<option>
+Bahamas<option>
+Bahrain<option> Bangladesh<option> Barbados<option>
+Belarus<option>
+Belgium<option> Belize<option> Benin<option>
+Bermuda<option> Bhutan<option>
+Bolivia<option> Bosnia and Herzegowina<option>
+Botswana<option> Bouvet
+Island<option> Brazil<option> British Indian Ocean
+Territory<option> Brunei
+Darussalam<option> Bulgaria<option> Burkina Faso<option>
+Burma<option>
+Burundi<option> Cambodia<option> Cameroon<option>
+Canada<option> Cape
+Verde<option> Cayman Islands<option> Central African
+Republic<option>
+Chad<option> Chile<option> China<option> Christmas
+Island<option> Cocos
+(Keeling) Islands<option> Colombia<option>
+Comoros<option> Congo<option>
+Congo, the Democratic Republic of the<option> Cook
+Islands<option> Costa
+Rica<option> Cote d'Ivoire<option> Croatia<option>
+Cyprus<option> Czech
+Republic<option> Denmark<option> Djibouti<option>
+Dominica<option> Dominican
+Republic<option> East Timor<option> Ecuador<option>
+Egypt<option> El
+Salvador<option> England<option> Equatorial
+Guinea<option> Eritrea<option>
+Espana<option> Estonia<option> Ethiopia<option> Falkland
+Islands<option>
+Faroe Islands<option> Fiji<option> Finland<option>
+France<option> French
+Guiana<option> French Polynesia<option> French Southern
+Territories<option>
+Gabon<option> Gambia<option> Georgia<option>
+Germany<option> Ghana<option>
+Gibraltar<option> Great Britain<option> Greece<option>
+Greenland<option>
+Grenada<option> Guadeloupe<option> Guam<option>
+Guatemala<option>
+Guinea<option> Guinea-Bissau<option> Guyana<option>
+Haiti<option> Heard and
+Mc Donald Islands<option> Honduras<option> Hong
+Kong<option> Hungary<option>
+Iceland<option> India<option> Indonesia<option>
+Ireland<option>
+Israel<option> Italy<option> Jamaica<option>
+Japan<option> Jordan<option>
+Kazakhstan<option> Kenya<option> Kiribati<option> Korea,
+Republic of<option>
+Korea (South)<option> Kuwait<option> Kyrgyzstan<option>
+Lao People's
+Democratic Republic<option> Latvia<option>
+Lebanon<option> Lesotho<option>
+Liberia<option> Liechtenstein<option> Lithuania<option>
+Luxembourg<option>
+Macau<option> Macedonia<option> Madagascar<option>
+Malawi<option>
+Malaysia<option> Maldives<option> Mali<option>
+Malta<option> Marshall
+Islands<option> Martinique<option> Mauritania<option>
+Mauritius<option>
+Mayotte<option> Mexico<option> Micronesia, Federated States
+of<option>
+Moldova, Republic of<option> Monaco<option>
+Mongolia<option>
+Montserrat<option> Morocco<option> Mozambique<option>
+Myanmar<option>
+Namibia<option> Nauru<option> Nepal<option>
+Netherlands<option> Netherlands
+Antilles<option> New Caledonia<option> New
+Zealand<option> Nicaragua<option>
+Niger<option> Nigeria<option> Niue<option> Norfolk
+Island<option> Northern
+Ireland<option> Northern Mariana Islands<option>
+Norway<option> Oman<option>
+Pakistan<option> Palau<option> Panama<option> Papua New
+Guinea<option>
+Paraguay<option> Peru<option> Philippines<option>
+Pitcairn<option>
+Poland<option> Portugal<option> Puerto Rico<option>
+Qatar<option>
+Reunion<option> Romania<option> Russia<option> Russian
+Federation<option>
+Rwanda<option> Saint Kitts and Nevis<option> Saint
+Lucia<option> Saint
+Vincent and the Grenadines<option> Samoa (Independent)<option>
+San
+Marino<option> Sao Tome and Principe<option> Saudi
+Arabia<option>
+Scotland<option> Senegal<option> Seychelles<option>
+Sierra Leone<option>
+Singapore<option> Slovakia<option> Slovenia<option>
+Solomon Islands<option>
+Somalia<option> South Africa<option> South Georgia and the
+South Sandwich
+Islands<option> South Korea<option> Spain<option> Sri
+Lanka<option> St.
+Helena<option> St. Pierre and Miquelon<option>
+Suriname<option> Svalbard and
+Jan Mayen Islands<option> Swaziland<option> Sweden<option>
+Switzerland<option> Taiwan<option> Tajikistan<option>
+Tanzania<option>
+Thailand<option> Togo<option> Tokelau<option>
+Tonga<option> Trinidad<option>
+Trinidad and Tobago<option> Tunisia<option> Turkey<option>
+Turkmenistan<option> Turks and Caicos Islands<option>
+Tuvalu<option>
+Uganda<option> Ukraine<option> United Arab
+Emirates<option> United
+Kingdom<option selected> United States<option> United States
+Minor Outlying
+Islands<option> Uruguay<option> USA<option>
+Uzbekistan<option>
+Vanuatu<option> Vatican City State (Holy See)<option>
+Venezuela<option> Viet
+Nam<option> Virgin Islands (British)<option> Virgin Islands
+(U.S.)<option>
+Wales<option> Wallis and Futuna Islands<option> Western
+Sahara<option>
+Yemen<option> Zambia<option> Zimbabwe
+</font></font></select></td>
+</tr>
+</table>
+
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>Phone</font></font>
+<br><input TYPE="TEXT" NAME="phone" VALUE="" SIZE="23" MAXLENGTH="20"></td>
+
+<td><font face="Verdana, Arial, Helvetica"><font size=-2>E-Mail<font color="#FF0000">*</font></font></font>
+<br><input TYPE="text" NAME="XX-email" maxlength=30 VALUE="" SIZE=35 MAXLENGTH=30></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td>
+<h1>
+<font face="Verdana, Arial, Helvetica"><font size=-1>Trip(s) of interest:</font></font></h1>
+<input TYPE="CHECKBOX" NAME="snaketrip" VALUE="SnakeRiver"><font face="Verdana, Arial, Helvetica"><font size=-1>Snake River in Hells Canyon</font></font>
+<br><input TYPE="CHECKBOX" NAME="salmontrip" VALUE="MiddleFork"><font face="Verdana, Arial, Helvetica"><font size=-1>Salmon River</font></font></td>
+
+<td>
+<h3>
+<font face="Verdana, Arial, Helvetica"><font size=-1>Dates:</font></font></h3>
+<input NAME="date" SIZE="10"></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-1>How did you hear
+about us?</font></font>
+<br><textarea name="how_did_you_hear_about_us" WRAP=physical COLS=50 ROWS=3></textarea></td>
+
+<td></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td><font face="Verdana, Arial, Helvetica"><font size=-1>Comments</font></font>
+<br><textarea name="customer_comments" WRAP=physical COLS=50 ROWS=5></textarea></td>
+
+<td></td>
+</tr>
+</table>
+
+<table COLS=2 WIDTH="100%" >
+<tr>
+<td>
+<p><font face="Verdana, Arial, Helvetica"><font size=-2><font color="#FF0000">*</font>
+Required entries</font></font>
+<br>&nbsp;
+<p><input type="submit" value=" Send Request "></form></td>
+
+<td></td>
+</tr>
+</table>
+
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</td>
+
+<td ALIGN="CENTER" VALIGN="TOP" ROWSPAN="2" WIDTH="122" BGCOLOR="#000000">
+<table WIDTH="100%" >
+<tr>
+<td BGCOLOR="#FDECDB"><a href="index.html" onMouseOver="iconOver('Logo'); return true;" onMouseOut="iconOut('Logo'); return true;"><img SRC="./logo_white.gif" NAME="Logo" ALT="Return to home page" BORDER=0 height=66 width=115></a>
+<font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="contact_us.shtml">Contact Us</a></font></font><br>
+<font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="rate-date.shtml">Rates and Dates</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="booking.shtml">Book
+a trip</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="snake.shtml">Snake
+River</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="salmon.shtml">Salmon
+River</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="fishing.shtml">Fishing</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="wildlife.shtml">Wildlife</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="history-hiking.shtml">History
+&amp; Hiking</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="boats.shtml">Boats</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="equipment.shtml">Equipment</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="food.shtml">Food,
+etc.</a></font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1>• <a href="map.shtml">Map</a></font></font></td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER BGCOLOR="#E0BF82"><font face="Tahoma, Arial, Helvetica"><font size=-1>877-610-3200</font></font>
+<br><font face="Tahoma, Arial, Helvetica"><font size=-1><a href="mailto:vacation@northstar-rafting.com">or
+e-mail us</a></font></font></td>
+</tr>
+</table>
+<img SRC="./pictures/fromuphi.jpg" height=362 width=122></td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+</table>
+
+<div align=right><font face="Arial, Helvetica"><font size=-2>Copyright &copy; 2000 North Star River Expeditions</font></font>
+<br><font face="Arial, Helvetica"><font size=-2>Logo and collateral by <a href="http://www.stoltzgroup.com">Stoltz Marketing Group</a></font></font>
+<br><font face="Arial, Helvetica"><font size=-2>Professional photography by John Rogers</font></font>
+<br><font face="Arial, Helvetica"><font size=-2>Web Page by Andrew and Alecia Hoobing</font></font>
+<br>&nbsp;</div>
+
+<br>&nbsp;
+</body>
+</html>
