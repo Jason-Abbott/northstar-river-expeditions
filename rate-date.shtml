@@ -1,0 +1,87 @@
+<!--#include file="./include/header.inc"-->
+
+<center>
+<img src="./text/rate-date.gif" width=349 height=68 alt="" border="0">
+<p>
+<img src="line.gif" width=123 height=3></center>
+<br>
+
+<center>
+<table border=0 cellpadding=3 cellspacing=4>
+<tr>
+	<td colspan=2 align="center" bgcolor="#e0bf82">
+	<font face="Tahoma, Arial, Helvetica">
+	Year 2000 Schedule and Rates</font></td>
+<tr>
+	<td width="50%" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<a href="snake.shtml">
+	<b>Snake River through Hells Canyon</b></a></font></td>
+	<td width="50%" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<a href="salmon.shtml">
+	<b>Lower Main Salmon River</b></a></font></td>
+<tr>
+	<td valign="top" bgcolor="#fdecdb">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+<a href="itinerary_hc3.shtml">3 Day Expedition</a> - $775/person<br>
+<a href="itinerary_hc4.shtml">4 Day Expedition</a> - $1010/person<br>
+<a href="itinerary_hc5.shtml">5 Day Expedition</a> - $1220/person<br>
+<a href="itinerary_hc6.shtml">6 Day Expedition</a> - $1425/person
+	</font>
+	</td>
+
+	<td valign="top" bgcolor="#fdecdb">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+<a href="itinerary_ls4.shtml">4 Day Expedition</a> - $985/person<br>
+<a href="itinerary_ls5.shtml">5 Day Expedition</a> - $1205/person
+	</font>
+	</td>
+<tr>
+	<td colspan=2 align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<b>Launch Dates</b></font></td>
+<tr>
+	<td valign="top" bgcolor="#fdecdb">
+	<table width="100%">
+	<tr>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		May 17<br>May 25<br>June 2<br>June 10<br>June 18<br>June 26</font></td>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		July 4<br>July 12<br>July 20<br>July 28<br>Aug 5<br>Aug 13</font></td>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		Aug 21<br>Aug 29<br>Sept 6<br>Sept 14<br>Sept 22</font></td>
+	</table>
+	</td>
+	
+	<td valign="top" bgcolor="#fdecdb">
+	<table width="100%">
+	<tr>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		July 8<br>July 16<br>July 24<br>Aug 1 </td>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		Aug 9<br>Aug 17<br>Aug 25<br>Sept 2</td>
+		<td valign="top" width="33%"><font face="Tahoma, Arial, Helvetica" size=2>
+		Sept 10<br>Sept 18</font></td>
+	</table>
+	</td>
+<tr>
+	<td colspan=2 align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+	<b>Charter dates available on request</b></td>
+</table>
+</center>
+<p>
+<font face="Verdana, Arial, Helvetica" size=2>
+
+<b>Prices include</b> 3% Forest Service or Bureau of Land Management Use Fee.<br>
+<b>Prices do not include</b> gratuities or 5% Idaho Sales Tax (Snake River/Hells Canyon trips are subject to 5% Idaho Sales Tax on 1/2 of the trip price because only 1/2 of the trip is in Idaho).
+<p>
+Dates and Prices Subject to Change Without Notice<br>
+10% Youth Discount<br>
+Group Discounts are available on most trips.<br>
+Please ask about Charter Trips
+
+</font>
+
+<!--#include file="./include/footer.shtml"-->
