@@ -2,4 +2,4 @@
 - Platform: HTML
 - Created: 2000
 
-![Logo](./logo_big.gif)
+![Logo](./raw/color logo.jpg)

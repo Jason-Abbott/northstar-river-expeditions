@@ -1,0 +1,26 @@
+<p>
+<center><img src="line.gif" width=123 height=3></center>
+
+</font>
+
+	</td>
+	<td bgcolor="#000000" valign="top" align="center" width="122">
+	<table width="100%" cellspacing=0 cellpadding=2 border=0>
+	
+<!--#include file="nav.shtml"-->
+
+	</table>
+
+	<img src="./pictures/fromuphi.jpg" width=122 height=362>
+	</td>
+<tr>
+	<td bgcolor="#000000" valign="bottom" align="center">
+	
+	<a href="#top" onMouseOver="iconOver('Top'); return true;" onMouseOut="iconOut('Top'); return true;">
+	<img name="Top" src="top1.gif" width=20 height=22 alt="" border=0></a>
+	</td>
+</table>
+
+<!--#include file="credits.inc"-->
+
+</body>

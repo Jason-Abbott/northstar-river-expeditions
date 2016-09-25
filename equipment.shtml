@@ -1,0 +1,29 @@
+<!--#include file="./include/header.inc"-->
+
+<center>
+<img src="./text/equipment.gif" width=280 height=60 alt="" border="0">
+<br>
+<img src="line.gif" width=123 height=3></center>
+<p>
+<font size=4><b>A</b></font>ll rafting and camping equipment is provided, including:
+<ul>
+<li>Waterproof bags for personal duffel 
+<li>Freshly laundered sleeping bags
+<li>Inflatable sleeping pads
+<li>Tents
+<li>Ground tarps
+<li>Rain flies
+<li>Camera boxes
+<li>Coast Guard approved life jackets
+<li>First aid supplies
+<li>Safety gear for paddle teams and kayakers
+<li>Fishing gear
+</ul>
+
+A hand wash system is available before all meals and in camp.  We carry out all human waste in tank toilets, which will also be available for use throughout the day.  <a href="gear_list.html">See our detailed, printable GEAR LIST</a> recommending what clothing and personal items you should bring for the trip.
+<p>
+<center>
+<img src="./pictures/waving.jpg" width=400 height=281 alt="" border="1">
+<br>
+
+<!--#include file="./include/footer.shtml"-->

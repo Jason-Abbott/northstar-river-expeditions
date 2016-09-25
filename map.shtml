@@ -1,0 +1,18 @@
+<!--#include file="./include/header.inc"-->
+
+<table align="right" cellpadding=2 cellspacing=0 width="115">
+<tr>
+	<td align="center" valign="top" bgcolor="#000000">
+	<table width="100%" cellspacing=0 cellpadding=2>
+
+<!--#include file="./include/nav.shtml"-->
+	
+	</table>
+
+</table>
+<img src="idaho1.gif" width=232 height=361 alt="" border="0"><br>
+<img src="idaho2.gif" width=485 height=376 alt="" border="0">
+
+<!--#include file="./include/credits.inc"-->
+
+</body>

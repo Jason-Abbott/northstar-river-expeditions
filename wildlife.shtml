@@ -1,0 +1,34 @@
+<!--#include file="./include/header.inc"-->
+
+<center>
+<img src="./text/wildlife.gif" width=209 height=56 border="0">
+<br>
+
+<table width=400 border=0 cellspacing=0 cellpadding=0><tr>
+<td align="center" bgcolor="#000000">
+<img src="./pictures/elkherd.jpg" width=400 height=291 alt="" border="1"><br>
+<font face="Arial, Helvetica" size=1 color="#ffffff">Elk on the Move.  Photo by <a href="http://sites.netscape.net/csalger/homepage">Chris Alger</a>.</font>
+</td></tr></table>
+<p>
+<img src="line.gif" width=123 height=3>
+</center>
+<p>
+
+<table width=231 border=0 cellspacing=7 cellpadding=0 align="left"><tr>
+<td align="center" bgcolor="#000000">
+<img src="./pictures/sheep.jpg" width=231 height=130 alt="" border="1"><br>
+<font face="Arial, Helvetica" size=1 color="#ffffff">Rocky Mountain Big Horn Sheep</font>
+</td></tr></table>
+
+<font size=4><b>B</b></font>oth Hells Canyon and the Salmon Canyon are home to a diverse population of wildlife. Mule deer, elk, Rocky Mountain big horn sheep, and mountain goats are the most often seen when we are on the river.  Occasionally we have the chance to spot bear, river otter, bobcats, and very rarely, cougar.  Both bald and golden eagles are seen in Hells Canyon soaring from rim to rim, and hunting along the river's edge.  Blue heron, king fishers, all types of water fowl, swallows, owls, red tailed hawks, and chukar are abundant-just to name a few!
+<p>
+
+<center>
+<table width=320 border=0 cellspacing=0 cellpadding=0><tr>
+<td align="center" bgcolor="#000000">
+<img src="./pictures/bear.jpg" width=320 height=270 alt="" border="1"><br>
+<font face="Arial, Helvetica" size=1 color="#ffffff">Black Bear Fishing at River's Edge</font>
+</td></tr></table>
+</center>
+
+<!--#include file="./include/footer.shtml"-->

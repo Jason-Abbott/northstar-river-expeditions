@@ -1,0 +1,2 @@
+<a href="index.html" onMouseOver="iconOver('Logo'); return true;" onMouseOut="iconOut('Logo'); return true;">
+<img name="Logo" src="logo_white.gif" width=115 height=66 alt="Return to home page" border="0"></a><br>
