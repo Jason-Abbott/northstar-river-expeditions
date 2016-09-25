@@ -1,11 +1,69 @@
-<!--#include file="./include/header.inc"-->
+<!!!!!!!--#include file="./include/header.inc"-->
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META NAME="description" content="North Star River Expeditions runs 3 to 6 day commercially outfitted whitewater rafting trips on the Snake River in Hells Canyon and the Lower Main Salmon River. Our trips are first class, providing all equipment needed for the trip, gourmet Dutch oven cooking, and a staff of experienced, friendly professional guides.>
+<META name=" content="whitewater river expeditions, whitewater rafting in the Snake River, Snake River whitewater rafting, Salmon River whitewater rafting, whitewater rafting in the Salmon River, Idaho whitewater rafting, whitewater rafting in Idaho, river expeditions, wildlife, boating, snake, salmon, petroglyphs, Idaho, outdoors, hiking, elk, sheep, white water, rapids, kayak, pontoon, rafts" keywords">
+
+<title>North Star River Expeditions</title>
+
+<style type='text/css'>
+	A:hover { color:#0044bb; }
+	A:link { text-decoration: none; }
+	A:active { text-decoration: none; }
+	A:visited { text-decoration: none; }
+</style>
+
+<script language="javascript"><!--
+
+if (document.images) {
+	var iconTop = new Image();
+	iconTop.src = "top1.gif";
+	var iconTopOn = new Image();
+	iconTopOn.src = "top2.gif"
+	statusTop = "Return to top of page";
+	
+	var iconLogo = new Image();
+	iconLogo.src = "logo_white.gif";
+	var iconLogoOn = new Image();
+	iconLogoOn.src = "logo_white2.gif"
+	statusLogo = "Return to home page";
+}
+
+function iconOver(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+"On.src");
+		status=eval("status"+name);
+	}
+}
+
+function iconOut(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+".src");
+		status="";
+	}
+}
+
+//-->
+</script>
+
+</head>
+<body background="mapback.jpg" link="#946330" vlink="#946330" alink="#946330">
+<a name="top"></a>
+
+<table width="100%" cellspacing=0 border=0 cellpadding=2 border=0>
+<tr>
+	<td valign="top" rowspan=2>
+<font face="Tahoma, Arial, Helvetica" size=2>
+<!!!!!!!--#include file="./include/header.inc"-->
 
 <center>
 <img src="./text/boats.gif" width=143 height=47 alt="" border="0">
 <p>
 <img src="line.gif" width=123 height=3></center>
 <p>
-<img src="./pictures/boat1.jpg" width=150 height=116 alt="" border="1" align="left">
+<img src="./pictures/boat1.jpg" width=225 height=174 alt="" border="1" align="left">
 <font size=4><b>O</b></font>ur armada includes Hyside and Avon rafts ranging in size from 15 feet in length to 19 feet in length.  Please let us know what you are most interested in and we will do our best to provide an opportunity for you to try those boats.  Guests often rotate to the various different rafts throughout the trip.   Forest Service and BLM management plans, as well as safety policies of North Star River Expeditions regulate the number and/or type of boats we can bring on each particular trip.
 <p>
 <dl>
@@ -15,6 +73,9 @@
 <dt><b>Paddle Rafts</b>
 <dd>Every passenger in this raft holds a paddle, as the team makes a collaborative effort under instruction of a licensed guide to navigate rapids or propel the boat in calm water.  Paddling is hard work, and therefore provides you with an exhilarating sense of accomplishment by the end of the day!  Paddle rafts need a minimum of six people and can hold up to eight paddlers, plus a guide.
 <p>
+<center><img src="./pictures/Kayaker.jpg" width="590" height="257"></center>
+<h5 align="center">Inflatable Kayaker, Granite Rapid</h1>
+<p>
 <dt><b>Inflatable Kayaks</b>
 <dd>We also bring one and two-person inflatable kayaks along for use on selected portions of the trip.  These are relatively stable boats, easy for the beginner of all ages to learn to paddle.  We provide instruction on the trip.  Generally, two to three kayaks will be brought on each trip, and we will make every effort to offer each person in your group who may be interested a chance to paddle a kayak.
 <p>
@@ -22,4 +83,75 @@
 <dd>These large rafts are custom designed to carry the majority of the trip's camp gear, duffel, food, extra ice and drinks.  This leaves the guest rafts less cluttered and more maneuverable.  Every morning the supply boatman will leave the rest of the group and float to the next camp.  When you arrive at camp at the end of the day, the kitchen gear and tents will be set, and your duffel unloaded.
 </dl>
 
-<!--#include file="./include/footer.shtml"-->
+<!!!!!!!!!!!!!!!!--#include file="./include/footer.shtml"-->
+</font>
+
+	</td>
+	<td bgcolor="#000000" valign="top" align="center" width="122">
+	<table width="100%" cellspacing=0 cellpadding=2 border=0>
+	
+<!!!!!!!!!!!!!!!!!!--#include file="nav.shtml"-->
+<tr>
+	<td bgcolor="#fdecdb">
+
+<!!!!!!!!!!!!!!!!!!--#include file="logo.inc"-->
+<a href="index.html" onMouseOver="iconOver('Logo'); return true;" onMouseOut="iconOut('Logo'); return true;">
+<img name="Logo" src="logo_white.gif" width=115 height=66 alt="Return to home page" border="0"></a><br>
+<!!!!!!!!!!!!!!!!!!--#include file="logo.inc"-->
+
+
+<!!!!!!!!!!!!!!--#include file="nav-list.inc"-->
+<font face="Tahoma, Arial, Helvetica" size=2>
+ <a href="contact_us.shtml">Contact Us</a><br>
+ <a href="rate-date.shtml">Rates and Dates</a><br>
+ <a href="booking.shtml">Book a trip</a><br>
+ <a href="snake.shtml">Snake River</a><br>
+ <a href="salmon.shtml">Salmon River</a><br>
+ <a href="fishing.shtml">Fishing</a><br>
+ <a href="wildlife.shtml">Wildlife</a><br>
+ <a href="history-hiking.shtml">History & Hiking</a><br>
+ <a href="boats.shtml">Boats</a><br>
+ <a href="equipment.shtml">Equipment</a><br>
+ <a href="food.shtml">Food, etc.</a><br>
+ <a href="map.shtml">Map</a>
+	</font>
+	</td>
+<tr>
+	<td bgcolor="#e0bf82" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>877-610-3200<br>
+<a href="mailto:vacation@northstar-rafting.com">or e-mail us</a>
+</font>
+<!!!!!!!!!!!!!!--#include file="nav-list.inc"-->
+
+
+	</td>
+<!!!!!!!!!!!!!!!!!!--#include file="nav.shtml"-->
+
+	</table>
+
+	<img src="./pictures/fromuphi.jpg" width=122 height=362>
+	</td>
+<tr>
+	<td bgcolor="#000000" valign="bottom" align="center">
+	
+	<a href="#top" onMouseOver="iconOver('Top'); return true;" onMouseOut="iconOut('Top'); return true;">
+	<img name="Top" src="top1.gif" width=20 height=22 alt="" border=0></a>
+	</td>
+</table>
+
+<!!!!!!!!!!!!!!!!!!!!!!!!@@!--#include file="credits.inc"-->
+<p>
+<font face="Arial, Helvetica" size=1>
+<div align="right">
+
+Copyright &copy; 2000 North Star River Expeditions<br>
+Logo and collateral by <a href="http://www.stoltzgroup.com">Stoltz Marketing Group</a><br>
+Professional photography by John Rogers<br>
+Web site by <a href="http://webott.com/jason">Jason Abbott</a>
+
+</div>
+</font>
+<!!!!!!!!!!!!!!!!!!!!!!!!@@!--#include file="credits.inc"-->
+
+</body>
+<!!!!!!!!!!!!!!!!--#include file="./include/footer.shtml"-->

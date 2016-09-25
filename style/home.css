@@ -1,0 +1,54 @@
+TD.homeContact {
+	width: 159px;
+	height: 136px;
+	text-align: center;
+	font-size: 9pt;
+}
+TD.homeNav {
+	background-color: #000000;
+	text-align: center;
+	width: 159px;
+	vertical-align: top;
+}
+DIV.homeNav {
+	background-color: #fdecdb;
+	font-size: 11pt;
+	border: 2px solid #000000;
+	text-align: left;
+	padding-left: 4px;
+}
+DIV.homeNav UL { margin-top: 8px; }
+DIV.homeNav LI {
+	margin-left: -25px;
+	font-size: 9pt;
+}
+DIV.homeFooter {
+	background-color: #7a8abe;
+	text-align: left;
+	font-family: Arial, Helvetica;
+	font-size: 8pt;
+	width: 122px;
+	padding: 3px;
+}
+DIV.homeFooter UL { margin-top: 8px; }
+DIV.homeFooter LI {
+	margin-left: -40px;
+	font-size: 8pt;
+	list-style-position: inside;
+	margin-top: 3px;
+}
+TD.homeBody {
+	vertical-align: top;
+	width: 443px;
+	background-color: #d2eff4;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 10pt;
+	padding: 4px;
+}
+TABLE.homeBox TD {
+	width: 50%;
+	background-color: #fdecdb;
+	font-size: 10pt;
+	text-align: center;
+	border: 1px solid #000000;
+}

@@ -3,7 +3,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <META NAME="description" content="North Star River Expeditions runs 3 to 6 day commercially outfitted whitewater rafting trips on the Snake River in Hells Canyon and the Lower Main Salmon River. Our trips are first class, providing all equipment needed for the trip, gourmet Dutch oven cooking, and a staff of experienced, friendly professional guides.>
-<META NAME="keywords" content="www.northstar-rafting.com, whitewater river expeditions, snake river whitewater, salmon river whitewater, Idaho whitewater rafting, river, expeditions, wildlife, boating, snake, salmon, petroglyphs, Idaho, outdoors, hiking, elk, sheep, white water, rapids, kayak, pontoon, rafts">
+<META name="keywords" content="whitewater river expeditions, whitewater rafting in the Snake River, Snake River whitewater rafting, Salmon River whitewater rafting, whitewater rafting in the Salmon River, Idaho whitewater rafting, whitewater rafting in Idaho, river expeditions, wildlife, boating, snake, salmon, petroglyphs, Idaho, outdoors, hiking, elk, sheep, white water, rapids, kayak, pontoon, rafts">
 
 <title>North Star River Expeditions</title>
 

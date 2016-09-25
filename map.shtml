@@ -1,11 +1,94 @@
-<!--#include file="./include/header.inc"-->
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META NAME="description" content="North Star River Expeditions runs 3 to 6 day commercially outfitted whitewater rafting trips on the Snake River in Hells Canyon and the Lower Main Salmon River. Our trips are first class, providing all equipment needed for the trip, gourmet Dutch oven cooking, and a staff of experienced, friendly professional guides.>
+<META name="keywords" content="whitewater river expeditions, whitewater rafting in the Snake River, Snake River whitewater rafting, Salmon River whitewater rafting, whitewater rafting in the Salmon River, Idaho whitewater rafting, whitewater rafting in Idaho, river expeditions, wildlife, boating, snake, salmon, petroglyphs, Idaho, outdoors, hiking, elk, sheep, white water, rapids, kayak, pontoon, rafts">
+
+<title>North Star River Expeditions</title>
+
+<style type='text/css'>
+	A:hover { color:#0044bb; }
+	A:link { text-decoration: none; }
+	A:active { text-decoration: none; }
+	A:visited { text-decoration: none; }
+</style>
+
+<script language="javascript"><!--
+
+if (document.images) {
+	var iconTop = new Image();
+	iconTop.src = "top1.gif";
+	var iconTopOn = new Image();
+	iconTopOn.src = "top2.gif"
+	statusTop = "Return to top of page";
+	
+	var iconLogo = new Image();
+	iconLogo.src = "logo_white.gif";
+	var iconLogoOn = new Image();
+	iconLogoOn.src = "logo_white2.gif"
+	statusLogo = "Return to home page";
+}
+
+function iconOver(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+"On.src");
+		status=eval("status"+name);
+	}
+}
+
+function iconOut(name){
+	if (document.images) {
+  		document.images[name].src=eval("icon"+name+".src");
+		status="";
+	}
+}
+
+//-->
+</script>
+
+</head>
+<body background="mapback.jpg" link="#946330" vlink="#946330" alink="#946330">
+<a name="top"></a>
+
+<table width="100%" cellspacing=0 border=0 cellpadding=2 border=0>
+<tr>
+	<td valign="top" rowspan=2>
+<font face="Tahoma, Arial, Helvetica" size=2>
 
 <table align="right" cellpadding=2 cellspacing=0 width="115">
 <tr>
 	<td align="center" valign="top" bgcolor="#000000">
 	<table width="100%" cellspacing=0 cellpadding=2>
 
-<!--#include file="./include/nav.shtml"-->
+<tr>
+	<td bgcolor="#fdecdb">
+<a href="index.html" onMouseOver="iconOver('Logo'); return true;" onMouseOut="iconOut('Logo'); return true;">
+<img name="Logo" src="logo_white.gif" width=115 height=66 alt="Return to home page" border="0"></a><br>
+<font face="Tahoma, Arial, Helvetica" size=2>
+• <a href="contact_us.shtml">Contact Us</a><br>
+• <a href="rate-date.shtml">Rates and Dates</a><br>
+• <a href="booking.shtml">Book a trip</a><br>
+• <a href="snake.shtml">Snake River</a><br>
+• <a href="salmon.shtml">Salmon River</a><br>
+• <a href="fishing.shtml">Fishing</a><br>
+• <a href="wildlife.shtml">Wildlife</a><br>
+• <a href="history-hiking.shtml">History & Hiking</a><br>
+• <a href="boats.shtml">Boats</a><br>
+• <a href="equipment.shtml">Equipment</a><br>
+• <a href="food.shtml">Food, etc.</a><br>
+• <a href="map.shtml">Map</a>
+	</font>
+	</td>
+<tr>
+	<td bgcolor="#e0bf82" align="center">
+	<font face="Tahoma, Arial, Helvetica" size=2>
+877-610-3200<br>
+<a href="mailto:vacation@northstar-rafting.com">or e-mail us</a>
+</font>
+
+	</td>
+
 	
 	</table>
 
@@ -13,6 +96,17 @@
 <img src="idaho1.gif" width=232 height=361 alt="" border="0"><br>
 <img src="idaho2.gif" width=485 height=376 alt="" border="0">
 
-<!--#include file="./include/credits.inc"-->
+<p>
+<font face="Arial, Helvetica" size=1>
+<div align="right">
+
+Copyright &copy; 2000 North Star River Expeditions<br>
+Logo and collateral by <a href="http://www.stoltzgroup.com">Stoltz Marketing Group</a><br>
+Professional photography by John Rogers<br>
+Web site by <a href="http://webott.com/jason">Jason Abbott</a>
+
+</div>
+</font>
 
 </body>
+
